@@ -134,6 +134,7 @@ impl KernelSrc {
 				"pci-ids",
 				"rtl8139",
 				"shell",
+				"small-heap",
 				"smp",
 				"strace",
 				"tcp",

@@ -63,6 +63,7 @@ randomize-layout = []
 rtl8139 = ["pci"]
 
 shell = []
+small-heap = []
 smp = []
 strace = []
 tcp = []
